@@ -1,8 +1,8 @@
 {
-	"name": "tijsverkoyen/bpost",
+	"name": "wishibam/bpost",
 	"type": "library",
 	"description": "PHP bPost is a (wrapper)class to communicate with the bPost Webservices.",
-	"homepage": "https://github.com/tijsverkoyen/bpost",
+	"homepage": "https://github.com/Wishibam/bpost",
 	"license": "BSD",
 	"authors": [
 		{
